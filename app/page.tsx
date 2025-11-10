@@ -3,7 +3,7 @@ import LoginButton from "./LoginButton"
 
 export default function Home() {
     return (
-        <div className="flex min-h-screen flex-col justify-center bg-gradient-to-br from-gray-900 via-gray-800 to-gray-900 px-6 py-12 lg:px-8">
+        <div className="flex min-h-screen flex-col justify-center bg-linear-to-br from-gray-900 via-gray-800 to-gray-900 px-6 py-12 lg:px-8">
             <div className="sm:mx-auto sm:w-full sm:max-w-md">
                 <div className="flex justify-center">
                     <Image
